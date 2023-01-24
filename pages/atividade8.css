@@ -1,0 +1,423 @@
+
+
+#atividade8{
+    position: relative;
+    bottom: 45px;
+}
+
+#majortextbox {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px black;
+    width: 500px;
+    height: 500px;
+    float: right;
+    position: relative;
+    right: 430px;
+    bottom: 148px;
+    
+    
+    
+    }
+
+
+
+
+.indicado{
+    border: 1px solid rgb(255, 72, 0);
+    color: white;
+    width: 61.5px;
+    background-color: orangered;
+    position: relative;
+    top: 40px;
+
+}
+
+.NotebookXtitle{
+    position: relative;
+    left: 70px;
+    
+    
+}
+
+
+#barrasuperiortexto{
+
+}
+
+.estrelas{
+    width: 23px;
+    height: 23px;
+    word-spacing: normal;
+    display: flex;
+    position: relative;
+    bottom: 43px;
+    left: 25px;
+}
+
+
+
+
+
+.avaliaçõesvalor{
+    position: relative;
+    bottom: 65px;
+    left: 180px;
+
+}
+
+.avaliaçõestexto{
+    color: grey;
+    position: relative;
+    bottom: 88px;
+    left: 230px;
+}
+
+.vendidosvalor{
+    position: relative;
+    bottom: 113px;
+    left: 380px;
+}
+
+.vendidostexto{
+    color: grey;
+    position: relative;
+    bottom: 136px;
+    left: 430px;
+    
+}
+
+.denunciar{
+    color: grey;
+    position: relative;
+    bottom: 162px;
+    left: 600px;
+}
+
+
+
+.preço{
+    border: 1px solid grey;
+    background-color: rgb(235, 231, 231);
+    position: relative;
+    bottom: 170px;
+}
+
+.preçoedit{
+    color: orangered;
+}
+
+
+.coinmaster{
+    position: relative;
+    bottom: 150px;
+}
+.moedasedit{
+color: grey;
+}
+.coinicon{
+    width: 20px;
+    height: 20px;
+}
+
+.coincompreclass{
+    display: flex;
+    position: relative;
+    left: 130px;
+    bottom: 27px;
+}
+
+
+.onehundredandfourty{
+    color: orange;
+    position: relative;
+    left: 5px;
+   
+
+}
+
+.moedasshopee{
+    position: relative;
+    left: 12px;
+}
+
+.interrogationicon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 20px;
+
+}
+
+.freteedit{
+ color:grey
+}
+
+.truckicon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: 90px;
+    left: 130px;
+}
+
+.fretecupom{
+    position: relative;
+    left: 30px;
+    bottom: 23px;
+}
+
+.paracomprasacima{
+    color: grey;
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+}
+
+.truckfreteparacompras{
+    position: relative;
+    bottom: 30px;
+    left: 130px;
+}
+
+.FreteMaster{
+    position: relative;
+    bottom: 170px;
+}
+
+
+.freteedit2{
+    position: relative;
+    top: 10px;
+}
+
+.CEP{
+position: relative;
+left: 295px;
+bottom: 150px;
+}
+
+.truck2icon{
+    width: 20px;
+    height: 20px;
+}
+
+.fretepara{
+    
+    position: relative;
+    bottom: 112px;
+    left: 160px;
+}
+.taxadefrete{
+    position: relative;
+    bottom: 188px;
+    left: 160px;
+    
+}
+
+.fretevalor{
+    position: relative;
+    bottom: 229px;
+    left: 295px;
+}
+
+.arrowdownicon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 365px;
+    bottom: 270px;
+}
+
+.arrowdownicon2{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 503px;
+    bottom: 190px;
+}
+
+
+
+
+
+
+/*CORES*/
+
+.cores{
+    color: grey;
+}
+
+.coresempreto{
+    color: black;
+}
+
+#coresorganization{
+    position: relative;
+    bottom: 400px;
+}
+
+.coresflex1{
+    display: flex;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+.coresflex2{
+    display: flex;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+.coresflex3{
+    display: flex;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+
+.coresposition{
+    display: grid;
+    grid-template-columns: auto;
+    padding: 3px;
+    grid-template-columns: ;
+   
+    
+    
+
+
+}
+
+.coresbox{
+    border: 1px solid grey;
+    position: relative;
+    width: 100px;
+
+}
+
+.coresdescription{
+    margin: 5px;
+    position:relative;
+    left: 15px;
+}
+
+
+
+
+
+
+
+
+/*Quantidade*/
+
+#Quantidademaster{
+    position: relative;
+    bottom: 390px;
+    left: 1px;
+
+}
+
+.quantidade{
+    color: grey;
+
+}
+
+.menosummais{
+    display: flex;
+    padding: 3px;
+    padding-left: 32px;
+    font-size: 20px;
+    border: 1px solid grey;
+    width: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 32px;
+}
+
+.menos{
+    border: 1px solid grey;
+    width: 100px;
+    margin-right: 10px;
+
+}
+.mais{
+    border: 1px solid grey;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.peçasdisponíveis{
+    color: grey;
+    position: relative;
+    left: 220px;
+    bottom: 64px;
+}
+
+
+
+
+/*Adicionar ao carrinho*/
+
+
+.carrinhomasterbox{
+    position: relative;
+    bottom: 425px;
+    
+    
+    
+}
+
+
+
+.adicionarcarrinhobox{
+    border: 1px solid orangered;
+    background-color: rgb(247, 177, 177);
+    position: relative;
+    width: 220px;
+    height: 55px;
+    
+}
+
+.adicionaraocarrinho{
+    position: relative;
+    left: 25px;
+    bottom: 15px;
+    color: orangered;
+    padding-left: 15px;
+    
+}
+
+.carticon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 20px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+
+/*Comprar Agora*/
+
+
+.compraragoramasterbox{
+    position: relative;
+    bottom: 480px;
+    left: 240px;
+
+    
+
+}
+.compraragorabox{
+    border: 1px solid orangered;
+    background-color: orangered;
+    width: 150px;
+    height: 55px;
+    
+}
+
+.compraragora{
+    color: white;
+    margin: 5px;
+    margin-left: 20px;
+    margin-top: 15px;
+}

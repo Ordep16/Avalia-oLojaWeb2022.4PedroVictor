@@ -1,0 +1,48 @@
+
+#pagecolor{
+    
+}
+
+#superdiv{
+    border: 1px solid white;
+    background-color: white;
+}
+
+
+
+#majorimagebox {
+   
+    width: 100px;
+    height: 100px;
+    
+}
+
+#majorimageimage{
+    position: relative;
+    left: 120px;
+    top: 60px;
+    height: 440px;
+    width: 510px;
+
+
+
+}
+
+
+
+.divlesserimages{
+    display: flex;
+    position: relative;
+    top: 410px;
+    left: 120px;
+}
+
+
+.lesserimages{
+    width: 102px;
+    height: 100px;
+    
+    
+}
+
+
